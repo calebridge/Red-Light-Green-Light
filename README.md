@@ -11,6 +11,9 @@
 
 ## **Wiring**
 - Copy the pictures for wiring and make sure to connect ground to ground and v to voltage
+- ![IMG_1081](https://github.com/calebridge/Red-Light-Green-Light/assets/143106660/98313ade-04f6-4f40-8601-636c8be2f9b7)
+![IMG_1080](https://github.com/calebridge/Red-Light-Green-Light/assets/143106660/89045e2c-2ea9-4b8d-8bc3-3c9bd7940166)
+
 
 ## **Code**
 You will need to complete a few steps before coding
